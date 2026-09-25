@@ -1,3 +1,3 @@
 # Certifications
 
-** Cisco Networking Academy Certificate ** - Data Analytics Essential
+** Cisco Networking Academy ** - Data Analytics Essential
